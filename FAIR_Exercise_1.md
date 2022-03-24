@@ -1,5 +1,5 @@
 ---
-title: "Practicum AI FAIR Data in AI/ML Exercise 1"
+title: "FAIR Data in AI/ML: Exercise 1"
 date: 2022-03-24
 image: '/https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/0bae6dc26b5f7f3f75bcc994f2192d1499f926a8/images/icons/noun_Data_green.svg'
 image-width: 80px
