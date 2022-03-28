@@ -52,7 +52,7 @@ In this exercise, we will *attempt* to locate data for some studies. We will use
    * You don’t need to read or understand the article (though are welcome to), mostly skim, looking for the method to download the data that were collected.
    * **Note:** This is often not possible! Don’t worry, that is part of the exercise. If after a few minutes of looking at the article, you can’t find the data, that’s fine, fill out the Google form below indicating that.
 
-1. Fill in this Google form with your findings an submit it. Then repeat for the remaining articles until you have explored **three to four** studies.
+1. Fill in this Google form with your findings an submit it. Then repeat for the remaining articles until you have explored **three to four** studies. Or if you would rather have the form in a new window, [click here](https://docs.google.com/forms/d/e/1FAIpQLSfCsiS-wyGSd0ivIQRTTNIM927-GLckmf0OGE3qlsyVCGPwew/viewform?usp=sf_link).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCsiS-wyGSd0ivIQRTTNIM927-GLckmf0OGE3qlsyVCGPwew/viewform?embedded=true" width="800" height="1420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
@@ -64,5 +64,5 @@ In this exercise, we will *attempt* to locate data for some studies. We will use
 
 ### Note about the activities
 
-The exercise is designed using the DataOne learning exercise: 
+The exercise was inspired by the DataOne learning exercise: 
  > DataONE Community Engagement & Outreach Working Group (2017) "Introduction to Data Management". Accessed through the Data Management Skillbuilding Hub at [https://dataoneorg.github.io/Education/lessons/01_management/index](https://dataoneorg.github.io/Education/lessons/01_management/index)
