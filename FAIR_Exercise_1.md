@@ -11,7 +11,7 @@ layout: full_page
 
 ### Data Organization
 
-<img src='../images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' style='padding: 0px 0px 0px 20px'> *Background:* A professor was interested in measuring the effect of exercise on heart pulse rate. He assigned students to record their pulse rate and then either run for one minute or sit for one minute and then record their pulse rate again.
+<img src='../images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' style='padding: 0px 0px 0px 20px'> *Background:* A professor was interested in measuring the effect of exercise on heart rate. For this projects, students were assigned to record their resting pulse rate and then either run for one minute or sit for one minute and then record their pulse rate again.
 
 In addition to their pulse, other information about their lifestyle was collected including height, weight, age gender, and smoking and drinking habits.
 
