@@ -1,13 +1,14 @@
 ---
 title: "FAIR Data in AI/ML: Exercise 1"
 date: 2022-03-24
-image: '/https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/0bae6dc26b5f7f3f75bcc994f2192d1499f926a8/images/icons/noun_Data_green.svg'
+image: /images/icons/practicumai_FAIR.png
 image-width: 80px
 image-height: 80px
 layout: full_page
 ---
+<img src='/images/icons/practicumai_FAIR.png' alt='Practicum AI FAIR training icon' align='right' width='100'>
 
-## Student Instructions
+## Student Instructions 
 
 ### Data Organization
 

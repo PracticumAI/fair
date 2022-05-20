@@ -6,6 +6,7 @@ image-width: 80px
 image-height: 80px
 layout: full_page
 ---
+<img src='/images/icons/practicumai_FAIR.png' alt='Practicum AI FAIR training icon' align='right' width='100'>
 
 In [exercise 1](/fair/FAIR_Exercise_1/), we explored common issues with how data are organized in spreadsheets. We also provided a [handout](../handouts/L04_DataEntry_Handout.pdf) and the [Broman and Woo 2018 paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) with some best practices in organizing data in spreadsheets.
 

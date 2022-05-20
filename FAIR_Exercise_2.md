@@ -6,6 +6,7 @@ image-width: 80px
 image-height: 80px
 layout: full_page
 ---
+<img src='/images/icons/practicumai_FAIR.png' alt='Practicum AI FAIR training icon' align='right' width='100'>
 
 ## Student Instructions
 
