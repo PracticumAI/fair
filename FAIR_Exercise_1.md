@@ -24,7 +24,8 @@ The hope is to combine all three of these data files into one analysis.
 
 ### Activity
 
-1. (15 minutes) In small groups, open the 3 files and inspect them. What are some problems in the way the data are currently organized?
+1. (10 minutes) In small groups, open the 3 files and inspect them. What are some problems in the way the data are currently organized?
+1. (5 minutes) Before moving on to the next activity, have the class check-in and discuss some of the findings.
 1. (10 minutes) Suggest a new system for organization. Create a new spreadsheet that can be used as a template for later years of data collection.
 
 Following the activities, the class will discuss each group's findings and suggestions.
