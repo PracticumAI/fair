@@ -16,11 +16,11 @@ As such, you decide to start looking through the existing data on the effects of
 
 ### Searching the literature for published datasets
 
-When researchers publish their work, it is usually expected that they will also make their data available. *How* thy do this had changed over time and often depends on discipline. As recently as the early 2000s, it was common that people would write something like:
+When researchers publish their work, it is usually expected that they will also make their data available. *How* they do this had changed over time and often depends on discipline. As recently as the early 2000s, it was common that people would write something like:
 
 > Data are available upon request from the corresponding author.
 
-But what how do you track down someone who may have moved institutions? What if they don't reply to your email requesting the data? 
+But how do you track down someone who may have moved institutions? What if they don't reply to your email requesting the data?
 
 In this exercise, we will *attempt* to locate data for some studies. We will use the PubMed search engine.
 
