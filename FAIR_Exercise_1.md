@@ -8,7 +8,7 @@ layout: full_page
 ---
 <img src='/images/icons/practicumai_FAIR.png' alt='Practicum AI FAIR training icon' align='right' width='100'>
 
-## Student Instructions 
+## Student Instructions
 
 ### Data Organization
 
@@ -16,7 +16,8 @@ layout: full_page
 
 In addition to their pulse, other information about their lifestyle was collected including height, weight, age gender, and smoking and drinking habits.
 
-This experiment was performed over 3-years and the data files for each year are available to you here:
+This experiment was performed over 3 years and the data files for each year are available to you here:
+
   * [1993_data.xlsx](../data/1993_data.xlsx)
   * [1996 Exercise Data.xlsx](../data/1996 Exercise Data.xlsx)
   * [Run_Sit_data_95.xlsx](../data/Run_Sit_data_95.xlsx)
@@ -25,8 +26,8 @@ The hope is to combine all three of these data files into one analysis.
 
 ### Activity
 
-1. (10 minutes) In small groups, open the 3 files and inspect them. What are some problems in the way the data are currently organized?
-1. (5 minutes) Before moving on to the next activity, have the class check-in and discuss some of the findings.
+1. (10 minutes) In small groups, open the three files and inspect them. What are some problems in the way the data are currently organized?
+1. (5 minutes) Before moving on to the next activity, have the class check in and discuss some of the findings.
 1. (10 minutes) Suggest a new system for organization. Create a new spreadsheet that can be used as a template for later years of data collection.
 
 Following the activities, the class will discuss each group's findings and suggestions.
@@ -43,7 +44,7 @@ Specifically, we suggest the following resources:
 
 ### Notes about the datasets and activities
 
-The datasets used in this exercise were derived from the [Pulse Rates Before and After Exercise](http://www.statsci.org/data/oz/ms212.html) dataset provided by Dr Richard J. Wilson. The full dataset is a clean, well organized dataset and the example files in this exercise were intentionally created for teaching purposes.
+The datasets used in this exercise were derived from the [Pulse Rates Before and After Exercise](http://www.statsci.org/data/oz/ms212.html) dataset provided by Dr Richard J. Wilson. The full dataset is a clean, well-organized dataset and the example files in this exercise were intentionally created for teaching purposes.
 
 The exercise is designed using the DataOne learning exercise: 
  > DataONE Community Engagement & Outreach Working Group (2017) "Data Entry and Manipulation". Accessed through the Data Management Skillbuilding Hub at [https://dataoneorg.github.io/Education/lessons/04_entry/index](https://dataoneorg.github.io/Education/lessons/04_entry/index).
