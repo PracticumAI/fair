@@ -10,7 +10,7 @@ layout: full_page
 
 ## Student Instructions
 
-<img src='../images/fitness-tracker.png' align='right' width='400' style='padding: 0px 0px 0px 20px'> After the last exercise where you worked to compile data on the effects of running on heart rate, you have started to think that you might want to do more research on the overall effects of exercise on fitness. Perhaps, this research will lead you to launch your company's new line of fitness trackers!!
+<img src='../images/fitness-tracker.png' alt="A smartwatch showing a heart with EKG overlay" align='right' width='400' style='padding: 0px 0px 0px 20px'> After the last exercise where you worked to compile data on the effects of running on heart rate, you have started to think that you might want to do more research on the overall effects of exercise on fitness. Perhaps, this research will lead you to launch your company's new line of fitness trackers!!
 
 As such, you decide to start looking through the existing data on the effects of different exercises on fitness. There is already a fair bit of data published on this, so why not make use of those data?
 
